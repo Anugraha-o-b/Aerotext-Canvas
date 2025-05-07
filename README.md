@@ -1,0 +1,2 @@
+# Aerotext-Canvas
+An air-writing tool that enables users to write in the air and converts the written characters into digital text. The system aims to accurately detect and track hand movements, ensuring precise recognition of air-written strokes. It focuses on effectively identifying and interpreting handwritten characters to convert them into readable digital text with high accuracy. Additionally, the project seeks to provide a seamless text rendering process, displaying recognized text in a clear and user-friendly manner.
